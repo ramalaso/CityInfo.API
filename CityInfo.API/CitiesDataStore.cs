@@ -18,7 +18,7 @@ namespace CityInfo.API
                 new CityDto()
                 {
                     Id=1,
-                    Name="New Cbba. City",
+                    Name="New York. City",
                     Description = "The one with that big park"
                 },
                 new CityDto()
