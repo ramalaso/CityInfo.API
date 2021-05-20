@@ -41,6 +41,7 @@ namespace CityInfo.API
             app.UseStatusCodePages();
 
             app.UseMvc();
+
         }
     }
 }
